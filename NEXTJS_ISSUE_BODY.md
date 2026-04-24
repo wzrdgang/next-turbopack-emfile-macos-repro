@@ -10,7 +10,7 @@ Next.js `16.2.3`
 
 ### Link to the code that reproduces this issue
 
-`REPRO_REPO_URL`
+`https://github.com/wzrdgang/next-turbopack-emfile-macos-repro`
 
 ### To Reproduce
 
