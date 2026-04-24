@@ -55,6 +55,7 @@ Expected behavior:
 - The failure reproduced with both Node `25.9.0` and Node `24.14.0`
 - The repro still succeeds with `npm run build`, so the problem appears isolated to Turbopack dev watchers
 - A validated watcher-target excerpt is included in `VALIDATED_WATCH_LOG.txt`
+- In the larger Munimetric app, the same logger also showed native watch attempts on `/Users`, `/Users/samhowell`, `/Users/samhowell/Documents`, `/Users/samhowell/Documents/munimetric`, `/Users/samhowell/Documents/munimetric/frontend`, `/Users/samhowell/Documents/munimetric/frontend/app`, and many `frontend/app/...` route directories
 - In the larger app, webpack + polling works around the issue, but that bypasses Turbopack instead of fixing it
 
 ### Validated watcher-target excerpt
