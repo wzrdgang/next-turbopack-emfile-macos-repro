@@ -1,0 +1,17 @@
+{
+  "name": "next-turbopack-emfile-macos-repro",
+  "private": true,
+  "scripts": {
+    "generate:routes": "node ./scripts/generate-routes.mjs",
+    "dev": "npm run generate:routes && next dev -p 3201",
+    "dev:turbo": "npm run generate:routes && next dev -p 3201",
+    "dev:debug": "npm run generate:routes && NODE_OPTIONS=--require=./scripts/watch-debug.cjs WATCHPACK_RECURSIVE_WATCHER_LOGGING=1 next dev -p 3201",
+    "build": "npm run generate:routes && next build"
+  },
+  "dependencies": {
+    "next": "16.2.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
+

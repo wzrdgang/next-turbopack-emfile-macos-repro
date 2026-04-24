@@ -1,0 +1,60 @@
+[fs.watch EMFILE event] /private
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/about
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/api
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/explore
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/contact
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/internal
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/methodology
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/profiles
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/research
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/states
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/internal
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/internal
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/profiles
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/internal
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/internal
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/research
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/profiles
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/research
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states/state-01
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states/state-03
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states/state-05
+[watchpack] created recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states/state-01
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states/state-03
+[watchpack] closed recursive watcher at /private/tmp/next-turbopack-emfile-macos-repro/app/states/state-05
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/api/track/market-options
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/api/track/projects
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/internal/telemetry/trusted-news
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+[fs.watch EMFILE event] /private/tmp/next-turbopack-emfile-macos-repro/app/states
+Watchpack Error (watcher): Error: EMFILE: too many open files, watch
+⚠ Found a change in next.config.js. Restarting the server to apply the changes...
